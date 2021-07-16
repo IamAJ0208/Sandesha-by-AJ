@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678667974883",
+    "project_id": "sandesha-e384b",
+    "storage_bucket": "sandesha-e384b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678667974883:android:10d1293f15e6e298312dd6",
+        "android_client_info": {
+          "package_name": "com.example.sandesha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678667974883-5rki3opp9shnb97vc54usgmdvkhcp46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk3EZhBVpgTU485T9JqEmn7aLt3PxFnzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678667974883-5rki3opp9shnb97vc54usgmdvkhcp46a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
